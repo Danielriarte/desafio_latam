@@ -1,2 +1,4 @@
 # desafio_latam
- data science
+
+
+In the notebooks folder is the solution.ipynb file.
